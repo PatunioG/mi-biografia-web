@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mi Biografía</title>
+
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<header class="top">
+<h1>Biografía de Ángel Patricio</h1>
+<p>Estudiante de 7° grado</p>
+</header>
+
+<main class="card">
+
+<img class="avatar" src="images/foto.jpg" alt="Foto de Ángel Patricio">
+
+<section class="text">
+
+<h2>Sobre mí</h2>
+<p>
+Hola, mi nombre es Ángel Patricio. Me gusta aprender cosas nuevas,
+la tecnología y crear proyectos creativos.
+</p>
+
+<h2>Mis intereses</h2>
+
+<ul>
+<li>Programación y tecnología</li>
+<li>Proyectos escolares</li>
+<li>Ideas creativas</li>
+</ul>
+
+</section>
+
+</main>
+
+<footer class="foot">
+<p>Proyecto web - Biografía personal</p>
+</footer>
+
+</body>
+</html>
